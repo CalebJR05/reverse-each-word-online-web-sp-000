@@ -1,2 +1,2 @@
 reverse_each_word(words)
-words.
+words.split.each |word|
